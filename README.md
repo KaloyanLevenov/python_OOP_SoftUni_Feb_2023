@@ -1,8 +1,9 @@
 # SoftUni_Python_OOP_February_2023
 Repository for tasks and problems which Python OOP Class in SoftUni Feb-2023 is dealing with
 
-Lecturer of course - [Mario Zahariev](https://github.com/zahariev-webbersof)
-                   - [Diyan Kalaydzhiev](https://github.com/DiyanKalaydzhiev23)
+Lecturers of course - [Mario Zahariev](https://github.com/zahariev-webbersof) and [Diyan Kalaydzhiev](https://github.com/DiyanKalaydzhiev23)
+
+
 
 Completed courses:
 - [Programming Basics With Python July 2022](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/001_programming_basics_with_python_july_2022)
