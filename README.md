@@ -25,8 +25,8 @@ Online judge system - https://judge.softuni.org/
 - [First Steps in OOP - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/02_first_steps_in_OOP_exercise)
 - [Classes and Objects - Lab](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/03_classes_and_objects_lab)
 - [Classes and Objects - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/04_classes_and_objects_exercise)
-- Inheritance - Lab
-- Inheritance - Exercise
+- [Inheritance - Lab](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/05_inheritance_lab)
+- [Inheritance - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/06_inheritance_exercise)
 - Encapsulation - Lab
 - Encapsulation - Exercise
 - Static and Class Methods - Lab
