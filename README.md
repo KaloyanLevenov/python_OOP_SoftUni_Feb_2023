@@ -21,26 +21,26 @@ Online judge system - https://judge.softuni.org/
 
 ## Python:
 
-- [First Steps in OOP - lab](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/01_first_steps_in_OOP_lab)
-- [First Steps in OOP - exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/02_first_steps_in_OOP_exercise)
-- [Classes and Objects - lab](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/03_classes_and_objects_lab)
-- [Classes and Objects - exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/04_classes_and_objects_exercise)
-- Inheritance - lab
-- Inheritance - exercise
-- Encapsulation - lab
-- Encapsulation - exercise
-- Static and Class Methods - lab
-- Static and Class Methods - exercise
-- Polymorphism and Abstraction - lab 
-- Polymorphism and Abstraction - exercise
-- SOLID - lab
-- SOLID - exercise
-- Iterators and Generators - lab
-- Iterators and Generators - exercise
-- Decorators - lab
-- Decorators - exercise
-- Testing - lab
-- Testing - exercise
+- [First Steps in OOP - Lab](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/01_first_steps_in_OOP_lab)
+- [First Steps in OOP - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/02_first_steps_in_OOP_exercise)
+- [Classes and Objects - Lab](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/03_classes_and_objects_lab)
+- [Classes and Objects - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/04_classes_and_objects_exercise)
+- Inheritance - Lab
+- Inheritance - Exercise
+- Encapsulation - Lab
+- Encapsulation - Exercise
+- Static and Class Methods - Lab
+- Static and Class Methods - Exercise
+- Polymorphism and Abstraction - Lab 
+- Polymorphism and Abstraction - Exercise
+- SOLID - Lab
+- SOLID - Exercise
+- Iterators and Generators - Lab
+- Iterators and Generators - Exercise
+- Decorators - Lab
+- Decorators - Exercise
+- Testing - Lab
+- Testing - Exercise
 - Design Patterns
 - Exam Preparation
 - Workshop
