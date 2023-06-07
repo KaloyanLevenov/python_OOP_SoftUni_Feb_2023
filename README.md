@@ -44,7 +44,7 @@ Online judge system - https://judge.softuni.org/
 - Design Patterns
 - Exam Preparation
 - Workshop
-- 
+
 
 ## Additional resources
 
