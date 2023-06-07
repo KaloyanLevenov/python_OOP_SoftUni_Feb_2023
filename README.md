@@ -31,8 +31,8 @@ Online judge system - https://judge.softuni.org/
 - [Encapsulation - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/08_encapsulation_exercise)
 - [Static and Class Methods - Lab](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/09_static_and_class_methods_lab)
 - [Static and Class Methods - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/10_static_and_class_methods_exercise)
-- Polymorphism and Abstraction - Lab 
-- Polymorphism and Abstraction - Exercise
+- [Polymorphism and Abstraction - Lab](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/11_polyphormism_and_abstraction_lab) 
+- [Polymorphism and Abstraction - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/12_polyphormism_and_abstraction_exercise)
 - SOLID - Lab
 - SOLID - Exercise
 - Iterators and Generators - Lab
