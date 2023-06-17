@@ -35,10 +35,10 @@ Online judge system - https://judge.softuni.org/
 - [Polymorphism and Abstraction - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/12_polyphormism_and_abstraction_exercise)
 - [SOLID - Lab](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/13_solid_lab)
 - [SOLID - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/14_solid_exercise)
-- Iterators and Generators - Lab
-- Iterators and Generators - Exercise
-- Decorators - Lab
-- Decorators - Exercise
+- [Iterators and Generators - Lab](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/15_iterators_and_generators_lab)
+- [Iterators and Generators - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/16_iterators_and_generators_exercise)
+- [Decorators - Lab](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/17_decorators_lab)
+- [Decorators - Exercise](https://github.com/KaloyanLevenov/python_OOP_SoftUni_Feb_2023/tree/main/18_decorators_exercise)
 - Testing - Lab
 - Testing - Exercise
 - Design Patterns
